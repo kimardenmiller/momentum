@@ -15,7 +15,7 @@ about-author:
 
 **WHAT SUPPORT IS NEEDED?** Needs a facilitator experienced in men's work, comfortable with soft and hard support
 
-**WHO CAN HELP?** Any hero, any senior NOM member
+**WHO CAN HELP?** Any hero, any senior Momentum member
 
 **WHAT IS THE TEAM'S ROLE?** Team discussion, all team members must participate
 

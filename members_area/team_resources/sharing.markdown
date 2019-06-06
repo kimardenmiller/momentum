@@ -138,4 +138,4 @@ This is a list of discussion and/or sharing topics that range from the simple an
 
 -   Do you, in general, make snap decisions or leave things undecided as long as possible? Rate yourself 1-10 (10 is "I decide everything immediately." & 1 is "I delay everything as much as possible, always.").
 
--   How would you like to be remembered -- by family and friends; by your team and NoM?
+-   How would you like to be remembered -- by family and friends; by your team and Momentum?

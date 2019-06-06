@@ -32,7 +32,7 @@ General:
 6.  What brought you to the Bay Area?
 7.  Education? Where? How long? Degree?
 8.  What is your experience with Men's work?
-9.  How did you find NoM?
+9.  How did you find Momentum?
 
 Passion:
 --------

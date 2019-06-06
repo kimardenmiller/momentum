@@ -23,7 +23,7 @@ about-author:
 
 **Background**
 
-This process is geared to the heart of what every NOM men's team needs to do well in order to be an elite team, provide great personal support. This hard of soft option process can be utilized for one or two meetings to broken down into sub parts and used for several meetings.
+This process is geared to the heart of what every Momentum men's team needs to do well in order to be an elite team, provide great personal support. This hard of soft option process can be utilized for one or two meetings to broken down into sub parts and used for several meetings.
 
 Providing excellent personal support is much like working with a woman's "g" spot--what works one time with a particular woman may not work another time with the same woman, and what works for one woman may not work for another. Hence great persistence and finesse are required to give good support and to give good "g spot".
 

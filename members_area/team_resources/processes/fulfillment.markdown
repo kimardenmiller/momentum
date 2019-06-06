@@ -21,7 +21,7 @@ about-author:
 
 **WHAT DO I NEED TO KNOW?**
 
-Many men live lives of quiet desperation, but in NOM we support you to live a passionate life. Each man has a unique set of skills, expectations and values and so it is very valuable to know what each man on a team thinks about living passionately.
+Many men live lives of quiet desperation, but in Momentum we support you to live a passionate life. Each man has a unique set of skills, expectations and values and so it is very valuable to know what each man on a team thinks about living passionately.
 
 One premise of living a fulfilling life is that balance leads to enrichment. Having a rich social life can aid in having a wonderful family life, being in optimum physical condition can open up new vistas for vacations and travel, enjoying your time off can make work more meaningful and so on.
 

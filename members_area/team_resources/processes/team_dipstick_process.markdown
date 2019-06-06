@@ -369,7 +369,7 @@ Facilitator leads discussion. Can discuss after each round but probably better t
 
             <tr>
               <td width="288" valign="top" style="width: 3in; border-style: none solid solid; border-right-color: windowtext; border-bottom-color: windowtext; border-left-color: windowtext; border-right-width: 1pt; border-bottom-width: 1pt; border-left-width: 1pt; padding: 0in 5.4pt;">
-                <p class="1Normal6" style="margin-left:.5in;text-indent:-.25in;"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;">13.<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;</span></span> <span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">The team participates in NoM at the right level.</span></p>
+                <p class="1Normal6" style="margin-left:.5in;text-indent:-.25in;"><span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;;">13.<span style="font-size: 7pt; font-family: 'Times New Roman';">&nbsp;&nbsp;</span></span> <span style="font-size:9.0pt;font-family:&quot;Arial&quot;,&quot;sans-serif&quot;">The team participates in Momentum at the right level.</span></p>
               </td>
 
               <td width="64" valign="top" style="width:47.65pt;border-top:none;border-left: none;border-bottom:solid windowtext 1.0pt;border-right:solid windowtext 1.0pt; padding:0in 5.4pt 0in 5.4pt">
